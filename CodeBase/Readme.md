@@ -1,4 +1,4 @@
-# NLP_SentimentAnalysis
+# NLPSentimentAnalysis
 Sentiment analysis for reddit comments
 Emotional states including fear, rage, joy, and sadness can all have an impact on our mental well-being and ability to make decisions. This project will analyse the emotions in GoEmotions dataset presented in paper. About 58 thousand Reddit comments with human annotations assigned to 27 emotions or neutral are included in the original dataset. Our team has grouped the 27 emotions into the below 13 labels to better classify the customer review.
 Joy
@@ -44,16 +44,17 @@ Conducted experiments with different model LSTM, RNN, Bi-LSTM and GRU
     width: 100%;
   }
 
-  th, td {
-    border: 1px solid #dddddd;
-    text-align: left;
-    padding: 8px;
-  }
+th, td {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
+}
 
-  th {
-    background-color: #f2f2f2;
-  }
+th {
+background-color: #f2f2f2;
+}
 </style>
+
 </head>
 <body>
 

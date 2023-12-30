@@ -1,0 +1,14 @@
+joy
+desire
+pride
+agreement
+surprise
+love
+confusion
+anger
+disgust
+sadness
+fear
+optimism
+disappointment
+neutral

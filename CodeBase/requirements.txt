@@ -1,0 +1,38 @@
+# Pandas and Numpy libraries
+pip install pandas 
+pip install numpy
+
+# Text processing libraries
+pip install emoji
+pip install re
+pip install contractions
+pip install os
+
+# Spacy libraries
+pip install spacy
+from spacy.lang.en.stop_words import STOP_WORDS
+
+# Scikit-Learn packages
+pip install scikit-learn
+
+# Tensorflow packages
+pip install tensorflow
+pip install matplotlib
+pip install seaborn
+pip install warnings
+pip install gensim
+pip install en-core-web-sm
+pip install json
+pip install torch==1.11.0
+pip install torchtext
+pip install tabulate
+pip install torch
+pip install torchtext
+pip install nltk
+
+
+#from pathlib import Path  
+#from collections import Counter
+#from spacy.lang.en.stop_words import STOP_WORDS
+#from torch.utils.data import TensorDataset, DataLoader
+
